@@ -77,7 +77,7 @@
       <img height="180" src="https://github-readme-stats.vercel.app/api?username=christiantochen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantochen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true""/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=christiantochen&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&layout=compact""/>
     </td>
   </tr>
 </table>
